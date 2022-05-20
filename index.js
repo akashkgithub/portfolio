@@ -28,7 +28,7 @@ function toggle_onclick($win, $navbar, width) {
 }
 
 var typed = new Typed("#typed", {
-  strings: ["Student", "Web Developer", "Photographer"],
+  strings: ["Student", "Cloud Architect", "Programmer"],
   typeSpeed: 50,
   backSpeed: 50,
   loop: true,
